@@ -1,0 +1,9 @@
+com\kgisl\SpringJavaConfig\CustomerDAOImpl.class
+com\kgisl\SpringJavaConfig\AppContext.class
+com\kgisl\SpringJavaConfig\CustomerController.class
+com\kgisl\SpringJavaConfig\CustomerDAO.class
+com\kgisl\SpringJavaConfig\CustomerServiceImpl.class
+com\kgisl\SpringJavaConfig\AppInitializer.class
+com\kgisl\SpringJavaConfig\CustomerService.class
+com\kgisl\SpringJavaConfig\WebMvcConfig.class
+com\kgisl\SpringJavaConfig\Customer.class

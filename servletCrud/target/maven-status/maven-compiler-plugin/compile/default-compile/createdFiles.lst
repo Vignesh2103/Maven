@@ -1,0 +1,5 @@
+com\kgisl\servletCrud\BookDAO.class
+com\kgisl\servletCrud\BookServlet.class
+com\kgisl\servletCrud\ControllerServlet.class
+com\kgisl\servletCrud\Book.class
+com\kgisl\servletCrud\GsonServlet.class

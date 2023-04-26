@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [21/Feb/2023:11:02:01 +0530] "GET / HTTP/1.1" 200 621 http-bio-9090-exec-1 403
+0:0:0:0:0:0:0:1 - - [21/Feb/2023:11:02:06 +0530] "GET /?email=Vignesh%40gmail.com&username=vignesh&password=12345&submit=Submit HTTP/1.1" 200 621 http-bio-9090-exec-3 3

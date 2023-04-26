@@ -1,0 +1,7 @@
+com\kgisl\springBook\DAO\BookDAOImpl.class
+com\kgisl\springBook\Controller\HomeController.class
+com\kgisl\springBook\Service\BookService.class
+com\kgisl\springBook\Config\SpringJdbcConfig.class
+com\kgisl\springBook\DAO\BookDAO.class
+com\kgisl\springBook\Model\Book.class
+com\kgisl\springBook\Service\BookServiceImpl.class

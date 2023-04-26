@@ -1,0 +1,5 @@
+com\kgisl\SessionWeb\WelcomeServlet.class
+com\kgisl\SessionWeb\SignupServlet.class
+com\kgisl\SessionWeb\LogoutServlet.class
+com\kgisl\SessionWeb\SessionListener.class
+com\kgisl\SessionWeb\LoginServlet.class
